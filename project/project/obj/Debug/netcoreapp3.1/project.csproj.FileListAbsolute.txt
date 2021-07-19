@@ -1,0 +1,26 @@
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\jaral\source\repos\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\jaral\source\repos\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\وسيم سحاري\Desktop\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.csproj.AssemblyReference.cache
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\وسيم سحاري\Desktop\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
